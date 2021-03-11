@@ -27,3 +27,5 @@ int main() {
     printf("****************************************************************************************");
 	return 0;
 }
+/* Yapı (Struct) : Birbirleriyle ilişkili değişkenlerin, bir isim altında toplanmasına yapı adı verilir. 
+Yapılar, değişik veri tiplerinde elemanlar içerebilirler. */
